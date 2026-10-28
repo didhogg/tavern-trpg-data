@@ -8,10 +8,10 @@
       "category": "rules",
       "name": "玩家手册（2014）",
       "nameEn": "Player's Handbook",
-      "version": "1.0.0",
-      "byteSize": 172512,
-      "sha256": "5ccdf47a321c038cb88a089136db6aaae6baee406a846fd4534bbcb90253a98f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-phb-1.0.0.trpgpack",
+      "version": "1.0.1",
+      "byteSize": 172540,
+      "sha256": "b26673bffceb5384f2bfc1003281a09b0a693a41dc890821150f57ed8fa8b62e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-phb-1.0.1.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "玩家手册（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -44,7 +44,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.165Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -54,10 +54,10 @@
       "category": "rules",
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
-      "version": "1.0.0",
-      "byteSize": 132717,
-      "sha256": "bef6b7694b8f48e06a766141dba192eed5204ebc8dc3eb66a28894e33a9dc2ca",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-dmg-1.0.0.trpgpack",
+      "version": "1.0.1",
+      "byteSize": 132773,
+      "sha256": "b8c9c1935d3f6d349752d5efdd7b1fdc904a99f95ac40ab8584299cbf6666a66",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-dmg-1.0.1.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -87,7 +87,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -100,7 +100,7 @@
       "version": "1.0.0",
       "byteSize": 63763,
       "sha256": "78769cfe477d29954e63ae2c4df8756d6a38631827ad8cb44067f19708165e85",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-mm-1.0.0.trpgpack",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-mm-1.0.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "怪物图鉴（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -125,7 +125,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -135,10 +135,10 @@
       "category": "rules",
       "name": "珊娜萨的万事指南",
       "nameEn": "Xanathar's Guide to Everything",
-      "version": "1.0.0",
-      "byteSize": 171051,
-      "sha256": "17240267c962c61d035ba35117498ebddebbf7199c1419277285166f9eeffae5",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-xge-1.0.0.trpgpack",
+      "version": "1.0.1",
+      "byteSize": 171076,
+      "sha256": "b39cc3c28cae1b6dbd878c801855d7d6a0069bd7af12107d1da348052776b93e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-xge-1.0.1.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "珊娜萨的万事指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -168,7 +168,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -178,10 +178,10 @@
       "category": "rules",
       "name": "塔莎的万事坩埚",
       "nameEn": "Tasha's Cauldron of Everything",
-      "version": "1.0.0",
-      "byteSize": 166767,
-      "sha256": "3e94c598848d35b5f23c83a1dc037a38ecb6c713f02cb11b0a5a2dcc743520e0",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-tce-1.0.0.trpgpack",
+      "version": "1.0.1",
+      "byteSize": 167161,
+      "sha256": "12dcd0814d79845febdc138ce4ebeb72838cfdb84aa8496f36040e9ac8774870",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-tce-1.0.1.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "塔莎的万事坩埚（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -213,7 +213,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -226,7 +226,7 @@
       "version": "1.0.0",
       "byteSize": 39549,
       "sha256": "a95c8096e6834d14cd0e1c947b224101c2bc01ad6e060f7fd0664a4cc9535d7b",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-scag-1.0.0.trpgpack",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-scag-1.0.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "剑湾冒险者指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -255,7 +255,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -268,7 +268,7 @@
       "version": "1.0.0",
       "byteSize": 84235,
       "sha256": "c759395b4ea4166d51d720c61bc220630aa079e8aae302c296ea8b79e7f541d2",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-vgm-1.0.0.trpgpack",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-vgm-1.0.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "瓦罗怪物指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -296,7 +296,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -309,7 +309,7 @@
       "version": "1.0.0",
       "byteSize": 87502,
       "sha256": "26b6367cd2b19a14220ca6b34d20cc1b5b16c0a11507b7418c4b22d68dd1bfe9",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-mtf-1.0.0.trpgpack",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-mtf-1.0.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯的众敌卷册（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -338,7 +338,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -348,10 +348,10 @@
       "category": "rules",
       "name": "魔邓肯巨献：多元宇宙的怪物",
       "nameEn": "Mordenkainen Presents: Monsters of the Multiverse",
-      "version": "1.0.0",
-      "byteSize": 157140,
-      "sha256": "02fa920adae470acc9a73916c49f27895e8731153f78511056b3a0cac9370628",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-mpmm-1.0.0.trpgpack",
+      "version": "1.0.1",
+      "byteSize": 157184,
+      "sha256": "fedf7bfe7e317ce93349d42778d86b345864c48f411a6805d13ab62f58814d6b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-mpmm-1.0.1.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯巨献：多元宇宙的怪物（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -377,7 +377,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.166Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -387,10 +387,10 @@
       "category": "rules",
       "name": "万象无常书",
       "nameEn": "The Book of Many Things",
-      "version": "1.0.0",
-      "byteSize": 80065,
-      "sha256": "77395cf7c2629f2d04336ac1d80b0f4504112ecfcfbbe47642c663b1afa57087",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.0/packs/dnd5e2014/dnd5e2014-bmt-1.0.0.trpgpack",
+      "version": "1.0.1",
+      "byteSize": 80048,
+      "sha256": "e2e29503d7958243b7e768e7c2d0463b82d075018de6e4dab65110259acb978e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v1.0.1/packs/dnd5e2014/dnd5e2014-bmt-1.0.1.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "万象无常书（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -419,7 +419,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-10-28T13:20:17.558Z",
+      "updatedAt": "2026-10-28T14:03:16.167Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     }
