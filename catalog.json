@@ -41,7 +41,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.221Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -52,8 +52,8 @@
       "name": "剑湾冒险者指南",
       "nameEn": "Sword Coast Adventurer's Guide",
       "version": "1.1.0",
-      "byteSize": 61935,
-      "sha256": "0f595c6460be4d8cb62cebe486ff8b6a6026a49827f2369daa166aded246a0f2",
+      "byteSize": 61959,
+      "sha256": "a81d0f70b6a7309781b2f0e06556d24e196b70242106df2de986a66ab28f4656",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-scag-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "剑湾冒险者指南（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -83,7 +83,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -94,8 +94,8 @@
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
       "version": "1.1.0",
-      "byteSize": 149482,
-      "sha256": "a70f3f353e0cc40fbd756d7025e34c484d0aac728e3c2b665249fe04072f5b7a",
+      "byteSize": 149555,
+      "sha256": "724a83320cf857e7999b7ad0d54c6eba264e9df110ce4eb0956de76ff5aa3bbc",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-dmg-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -130,7 +130,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -172,7 +172,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -221,7 +221,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -266,7 +266,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -277,8 +277,8 @@
       "name": "瓦罗怪物指南",
       "nameEn": "Volo's Guide to Monsters",
       "version": "1.1.0",
-      "byteSize": 242127,
-      "sha256": "c45b698e1778e919f60d203c6036349b54c79bd0cd1c5d58deac0b3226d5042e",
+      "byteSize": 243105,
+      "sha256": "17cc06bf91bf44cadb2730cc8bf39fe8dc65bf469d36fb8059538a74a1cdca10",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-vgm-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "瓦罗怪物指南（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -307,7 +307,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -318,8 +318,8 @@
       "name": "魔邓肯的众敌卷册",
       "nameEn": "Mordenkainen's Tome of Foes",
       "version": "1.1.0",
-      "byteSize": 233578,
-      "sha256": "fac96bbe922fd33f483e706571bb5a503b25fe3c657f123e84577e7e2a187123",
+      "byteSize": 234757,
+      "sha256": "f6f3e9215897ef214559fcd0f10b03026481cb3eaf966c690ec12ea5771400a5",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-mtf-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯的众敌卷册（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -349,7 +349,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -388,7 +388,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -433,7 +433,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-10-30T13:44:33.640Z",
+      "updatedAt": "2026-10-30T14:40:05.223Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     }
