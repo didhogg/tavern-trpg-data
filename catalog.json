@@ -9,8 +9,8 @@
       "name": "玩家手册（2014）",
       "nameEn": "Player's Handbook",
       "version": "1.1.0",
-      "byteSize": 378872,
-      "sha256": "281f30e5d32e8e1f20f8be9f11341907db8cdf79dd6b938201550fffb8aeb2b3",
+      "byteSize": 374284,
+      "sha256": "c395f2a45d1c250d5984bf4963dec00baeb6983278b221b6bcbe8fc2876b19f1",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-phb-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "玩家手册（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -27,11 +27,11 @@
         "rule": 90,
         "lore": 26,
         "deity": 146,
-        "table": 139
+        "table": 145
       },
       "contributes": {
-        "entries": 909,
-        "tables": 139,
+        "entries": 915,
+        "tables": 145,
         "variants": 0,
         "adventures": 0,
         "ruleOptions": 0
@@ -42,7 +42,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -86,7 +86,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -97,8 +97,8 @@
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
       "version": "1.1.0",
-      "byteSize": 272825,
-      "sha256": "9b7c09311cce6d54fa4ddb92d91c8ecc738210cd38f64215d52c3cc8f9fd77b3",
+      "byteSize": 267177,
+      "sha256": "5212e07002e7c44f50943bf2ab6f8e0683581d805a39fa1a25463fb8570e2724",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-dmg-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -139,7 +139,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -150,8 +150,8 @@
       "name": "怪物图鉴（2014）",
       "nameEn": "Monster Manual",
       "version": "1.1.0",
-      "byteSize": 580532,
-      "sha256": "26d020b02ee5c2753394f6806822d8c7c3046c6980c28e29991894f315e04a09",
+      "byteSize": 580592,
+      "sha256": "defd4b1870fc3b444ce32ad5be303d976999c01bbd2aefaba8c474969f7b9518",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-mm-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "怪物图鉴（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -162,11 +162,11 @@
         "lore": 261,
         "language": 21,
         "monsterPart": 277,
-        "table": 10
+        "table": 11
       },
       "contributes": {
-        "entries": 928,
-        "tables": 10,
+        "entries": 929,
+        "tables": 11,
         "variants": 0,
         "adventures": 0,
         "ruleOptions": 0
@@ -184,7 +184,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -195,8 +195,8 @@
       "name": "珊娜萨的万事指南",
       "nameEn": "Xanathar's Guide to Everything",
       "version": "1.1.0",
-      "byteSize": 287135,
-      "sha256": "55e8e0e53b47978e27c8c8379076c4613211ba437950d9e44d939314689e0626",
+      "byteSize": 287079,
+      "sha256": "5c8cf035658338585ff74b4f56ae3c591d8fd105708aa542bc4178c768d54477",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-xge-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "珊娜萨的万事指南（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -234,7 +234,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -281,7 +281,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -326,7 +326,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -337,8 +337,8 @@
       "name": "魔邓肯的众敌卷册",
       "nameEn": "Mordenkainen's Tome of Foes",
       "version": "1.1.0",
-      "byteSize": 308208,
-      "sha256": "5d4ab319928a0eaad228443f62ea8e75b9238e6e0c2212ae3582cc916837b996",
+      "byteSize": 308739,
+      "sha256": "b5e91a2b6c3c494be02ca3f527f3e4cb94af4550ffb733b1d56341ec2fd32c52",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-mtf-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯的众敌卷册（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -354,11 +354,11 @@
         "reward": 13,
         "cult": 15,
         "vehicle": 3,
-        "table": 87
+        "table": 96
       },
       "contributes": {
-        "entries": 406,
-        "tables": 87,
+        "entries": 415,
+        "tables": 96,
         "variants": 0,
         "adventures": 0,
         "ruleOptions": 0
@@ -373,7 +373,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-10-31T04:23:20.471Z",
+      "updatedAt": "2026-10-31T05:15:57.530Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -384,8 +384,8 @@
       "name": "魔邓肯巨献：多元宇宙的怪物",
       "nameEn": "Mordenkainen Presents: Monsters of the Multiverse",
       "version": "1.1.0",
-      "byteSize": 383155,
-      "sha256": "bea5ce684053b7ae79c16bcbe69469c46b68f08f8d3196753c36f15e0d500778",
+      "byteSize": 383327,
+      "sha256": "3dc4e0bc90e44bdf54b798e295a4f13c162cffce9db53378d952a01a6e246f89",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-mpmm-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯巨献：多元宇宙的怪物（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -395,11 +395,11 @@
         "subrace": 4,
         "feature": 191,
         "cult": 10,
-        "table": 18
+        "table": 19
       },
       "contributes": {
-        "entries": 547,
-        "tables": 18,
+        "entries": 548,
+        "tables": 19,
         "variants": 0,
         "adventures": 0,
         "ruleOptions": 0
@@ -414,7 +414,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-10-31T04:23:20.472Z",
+      "updatedAt": "2026-10-31T05:15:57.531Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -462,7 +462,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-10-31T04:23:20.472Z",
+      "updatedAt": "2026-10-31T05:15:57.531Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     }
