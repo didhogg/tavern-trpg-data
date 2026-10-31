@@ -9,8 +9,8 @@
       "name": "玩家手册（2014）",
       "nameEn": "Player's Handbook",
       "version": "1.1.0",
-      "byteSize": 378462,
-      "sha256": "d8b29e65e3cdd7f734dbd5b977f3eac53d584c9f2e6fb229fa3e4d28d9087348",
+      "byteSize": 378872,
+      "sha256": "281f30e5d32e8e1f20f8be9f11341907db8cdf79dd6b938201550fffb8aeb2b3",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-phb-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "玩家手册（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -42,7 +42,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -86,7 +86,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -97,8 +97,8 @@
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
       "version": "1.1.0",
-      "byteSize": 270428,
-      "sha256": "df5704e382e1851127429105065d47ece342e8932ce399954c91241f3a8077c0",
+      "byteSize": 272825,
+      "sha256": "9b7c09311cce6d54fa4ddb92d91c8ecc738210cd38f64215d52c3cc8f9fd77b3",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-dmg-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -139,7 +139,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -150,8 +150,8 @@
       "name": "怪物图鉴（2014）",
       "nameEn": "Monster Manual",
       "version": "1.1.0",
-      "byteSize": 580376,
-      "sha256": "ea8945dc07b0d875043365ff49c902f14eed85da50c78d384fdde764e0149446",
+      "byteSize": 580532,
+      "sha256": "26d020b02ee5c2753394f6806822d8c7c3046c6980c28e29991894f315e04a09",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-mm-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "怪物图鉴（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -184,7 +184,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -234,7 +234,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -281,7 +281,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -326,7 +326,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -373,7 +373,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.471Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -414,7 +414,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.472Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -462,7 +462,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-10-31T04:15:27.489Z",
+      "updatedAt": "2026-10-31T04:23:20.472Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     }
