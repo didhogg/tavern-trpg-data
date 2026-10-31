@@ -9,8 +9,8 @@
       "name": "玩家手册（2014）",
       "nameEn": "Player's Handbook",
       "version": "1.2.0",
-      "byteSize": 977036,
-      "sha256": "91e853605ccbe39b2cf8977543124bd6096874b45f93d10ba1143eb22a02f4d6",
+      "byteSize": 977184,
+      "sha256": "b577fff2d9dd2ff6c9a8e4cb540af82cfb3d4476d31f5b4b6678be246678937b",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-phb-1.2.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "玩家手册（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -43,7 +43,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-10-31T11:31:17.721Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -54,8 +54,8 @@
       "name": "剑湾冒险者指南",
       "nameEn": "Sword Coast Adventurer's Guide",
       "version": "1.2.0",
-      "byteSize": 744785,
-      "sha256": "8b7372fdeed489cb697e30451733681b1d4ebd59b396b56d2941288295006a27",
+      "byteSize": 746274,
+      "sha256": "7b9cb8d14e38f22957205634cdbd7de0d7225e3727748ba61b8c8cab8c129e90",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-scag-1.2.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "剑湾冒险者指南（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -64,7 +64,7 @@
         "item": 15,
         "subrace": 21,
         "background": 13,
-        "feature": 76,
+        "feature": 82,
         "rule": 1,
         "language": 20,
         "deity": 99,
@@ -72,7 +72,7 @@
         "table": 19
       },
       "contributes": {
-        "entries": 277,
+        "entries": 283,
         "tables": 19,
         "variants": 0,
         "adventures": 0,
@@ -88,7 +88,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-10-31T11:31:17.721Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -99,8 +99,8 @@
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
       "version": "1.2.0",
-      "byteSize": 1063505,
-      "sha256": "4ce0285996d0fab1095001e14ab10022f9d4e24ec1db242f8d98a66130ca62bd",
+      "byteSize": 1063542,
+      "sha256": "800165b13fcd8e938001adde398be2d39ffcdd2a0b0baa6da774fc52bbea82fe",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-dmg-1.2.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -142,7 +142,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-10-31T11:31:17.721Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -188,7 +188,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -199,8 +199,8 @@
       "name": "珊娜萨的万事指南",
       "nameEn": "Xanathar's Guide to Everything",
       "version": "1.2.0",
-      "byteSize": 629604,
-      "sha256": "2830af9cfc58f0eda575c74196be1dd189c16fa42d4964d95ed3ed12f6b0d7b2",
+      "byteSize": 629669,
+      "sha256": "5778a1b078bb60e246f608a7a7365df91ebe7c8d1548948e61ead9367e140948",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-xge-1.2.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "珊娜萨的万事指南（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -239,7 +239,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -250,8 +250,8 @@
       "name": "塔莎的万事坩埚",
       "nameEn": "Tasha's Cauldron of Everything",
       "version": "1.2.0",
-      "byteSize": 595432,
-      "sha256": "5c620085c5fe417ffd6bf17ab5e7900de47c3629a5f45d443c2e9fccd6b88439",
+      "byteSize": 598354,
+      "sha256": "afe0be2872958ab2f42875c59a81588a663b00286446a69a3874c7b580b11cf8",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-tce-1.2.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "塔莎的万事坩埚（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -264,14 +264,14 @@
         "race": 3,
         "feat": 15,
         "rule": 3,
-        "feature": 388,
+        "feature": 401,
         "hazard": 7,
         "object": 3,
         "book": 6,
         "table": 116
       },
       "contributes": {
-        "entries": 729,
+        "entries": 742,
         "tables": 116,
         "variants": 0,
         "adventures": 0,
@@ -280,14 +280,23 @@
       "relationships": {
         "requires": [
           {
+            "id": "dnd5e2014-dmg"
+          },
+          {
             "id": "dnd5e2014-phb"
+          },
+          {
+            "id": "dnd5e2014-scag"
+          },
+          {
+            "id": "dnd5e2014-xge"
           }
         ],
         "recommends": [],
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -333,7 +342,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -381,7 +390,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -423,7 +432,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.608Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -472,7 +481,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-10-31T11:31:17.722Z",
+      "updatedAt": "2026-10-31T13:02:47.609Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     }
