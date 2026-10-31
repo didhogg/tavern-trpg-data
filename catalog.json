@@ -43,7 +43,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.162Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -88,7 +88,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.162Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -99,8 +99,8 @@
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
       "version": "1.1.0",
-      "byteSize": 581215,
-      "sha256": "52f0ebd812a101f1e8da473f24e839d5220331c6a339fc1e5b508070cd8fdda2",
+      "byteSize": 581350,
+      "sha256": "6a2297ee7f7b9e0fb01e0571e2367c2311196cbcae953aee23608f7ef66be3cd",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@v0.0.0-placeholder/packs/dnd5e2014/dnd5e2014-dmg-1.1.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -120,11 +120,11 @@
         "vehicle": 1,
         "monsterPart": 68,
         "book": 15,
-        "table": 224
+        "table": 226
       },
       "contributes": {
-        "entries": 942,
-        "tables": 224,
+        "entries": 944,
+        "tables": 226,
         "variants": 0,
         "adventures": 0,
         "ruleOptions": 7
@@ -142,7 +142,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.162Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -188,7 +188,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -239,7 +239,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -287,7 +287,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -333,7 +333,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -381,7 +381,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -423,7 +423,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-10-31T07:35:33.082Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -472,7 +472,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-10-31T07:35:33.083Z",
+      "updatedAt": "2026-10-31T08:13:11.163Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     }
