@@ -8,10 +8,10 @@
       "category": "rules",
       "name": "玩家手册（2014）",
       "nameEn": "Player's Handbook",
-      "version": "1.5.1",
-      "byteSize": 980038,
-      "sha256": "6ccdf49809b63addadb616e09174df9355b43dd42df4e268bacda6bc6d4361e3",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-phb-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 980039,
+      "sha256": "bc950ed05ee143620dd3dcc003758471ffc3eca0d1c96266c1c6e3cdd1e08104",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-phb-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "玩家手册（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -43,7 +43,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-11-02T12:29:20.613Z",
+      "updatedAt": "2026-11-02T15:50:10.060Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -53,10 +53,10 @@
       "category": "rules",
       "name": "剑湾冒险者指南",
       "nameEn": "Sword Coast Adventurer's Guide",
-      "version": "1.5.1",
-      "byteSize": 747282,
-      "sha256": "5bca40647d828ee8ecfaa7f9f1db2517f28a1f32d67a9c2f2fd731ddb576dfce",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-scag-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 747283,
+      "sha256": "27a61637e4fb69975401ebb085e07233012ee7934ac7587cfe5e89a045d5c2a8",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-scag-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "剑湾冒险者指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -88,7 +88,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-11-02T12:29:20.613Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -98,10 +98,10 @@
       "category": "rules",
       "name": "城主指南（2014）",
       "nameEn": "Dungeon Master's Guide",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "byteSize": 1071670,
-      "sha256": "a47e3cba3422f4d3cba834b4a11aaf1444b6ce53f268efc529f3fadcb721d6ac",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dmg-1.5.1.trpgpack",
+      "sha256": "8b6b2681493d61242314ce8a9447757ffa7d6cb939fb5db198613a97d52e1afa",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dmg-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "城主指南（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -142,7 +142,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-11-02T12:29:20.613Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -152,10 +152,10 @@
       "category": "rules",
       "name": "怪物图鉴（2014）",
       "nameEn": "Monster Manual",
-      "version": "1.5.1",
-      "byteSize": 1556887,
-      "sha256": "cd5f924c74c69bc32d1cf6753d9a17422f3ae75756679010a9b2bf27cc1bfb43",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mm-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 1558281,
+      "sha256": "62be5d5941ea51872d266e1da18e6b8ceb453c2a33995b9480ccaf43257592b7",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mm-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "怪物图鉴（2014）（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -188,7 +188,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-11-02T12:29:20.613Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -198,10 +198,10 @@
       "category": "rules",
       "name": "珊娜萨的万事指南",
       "nameEn": "Xanathar's Guide to Everything",
-      "version": "1.5.1",
-      "byteSize": 634992,
-      "sha256": "de20425ddc3d773d453921c9429bce50f70a329339edd274f79494fb8731649d",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-xge-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 634993,
+      "sha256": "50df50a0c695554e8d0ec41c5a67b55741cbe08e496b83686b62c86f4695c96e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-xge-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "珊娜萨的万事指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -239,7 +239,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-11-02T12:29:20.613Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -249,10 +249,10 @@
       "category": "rules",
       "name": "塔莎的万事坩埚",
       "nameEn": "Tasha's Cauldron of Everything",
-      "version": "1.5.1",
-      "byteSize": 609304,
-      "sha256": "399c2731f4d620e5f4350fd5185b1b01a9018e0cbd3c05d3cc03a30da180590c",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tce-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 609345,
+      "sha256": "5c2e7ecb5b0e50ba59de016e1a7096081572c20595433b0293aec38110731637",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tce-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "塔莎的万事坩埚（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -296,7 +296,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -306,10 +306,10 @@
       "category": "rules",
       "name": "瓦罗怪物指南",
       "nameEn": "Volo's Guide to Monsters",
-      "version": "1.5.1",
-      "byteSize": 1033448,
-      "sha256": "41df85afe45ce301505e41a1704432148a09ca5754325518d33dd74ffe5e81b0",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-vgm-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 1034920,
+      "sha256": "8077aa9b36f0444804d7fd288d0315e3f866795a584134d812a0ff5113a3a636",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-vgm-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "瓦罗怪物指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -342,7 +342,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -352,10 +352,10 @@
       "category": "rules",
       "name": "魔邓肯的众敌卷册",
       "nameEn": "Mordenkainen's Tome of Foes",
-      "version": "1.5.1",
-      "byteSize": 1070925,
-      "sha256": "a2038bf875cd1f0f30905c27366102ba4ab1ab0805e4fd7f8189d12d68392088",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mtf-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 1071920,
+      "sha256": "abd6884011c3b96d2321d94befab63f0f152eddf548c3749edd089bd64ddd217",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mtf-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯的众敌卷册（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -390,7 +390,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.061Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -400,10 +400,10 @@
       "category": "rules",
       "name": "魔邓肯巨献：多元宇宙的怪物",
       "nameEn": "Mordenkainen Presents: Monsters of the Multiverse",
-      "version": "1.5.1",
-      "byteSize": 968999,
-      "sha256": "08e53257ea008e821bfb2cf168d4cee594e0a9c3154d623cd826fa79a0fc5587",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mpmm-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 971012,
+      "sha256": "5d0248d3560a56d00cffa514f7bf1853b467305961a0d12040c8dd0af14927fd",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mpmm-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "魔邓肯巨献：多元宇宙的怪物（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -432,7 +432,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -442,10 +442,10 @@
       "category": "rules",
       "name": "万象无常书",
       "nameEn": "The Book of Many Things",
-      "version": "1.5.1",
-      "byteSize": 728182,
-      "sha256": "570c24ecdd3de7603bf03cc6fcbb25b5726be7cbf1977954c5ea272a6126a27f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bmt-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 728485,
+      "sha256": "c6c0c6a6533002ce43576e7caba73173b5af0f6df4dcdad9dbe224839fd5538c",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bmt-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "万象无常书（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -481,7 +481,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -491,10 +491,10 @@
       "category": "rules",
       "name": "异界传送: 赞迪卡",
       "nameEn": "Plane Shift: Zendikar",
-      "version": "1.5.1",
-      "byteSize": 86055,
-      "sha256": "3e6b8bc592b8ae2f98b1128b49accc4a44eb623563e8688c254e1a28a7bb61df",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psz-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 86243,
+      "sha256": "d1b77aecfd04675d347386d728793f1b2bed8de645dd023097b50e695584f0bd",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psz-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "异界传送: 赞迪卡（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -517,7 +517,7 @@
         "conflicts": []
       },
       "lineage": "6a0882ea-6669-4d40-8d4a-d6f9418c2faf",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -527,10 +527,10 @@
       "category": "rules",
       "name": "异界传送: 依尼翠",
       "nameEn": "Plane Shift: Innistrad",
-      "version": "1.5.1",
-      "byteSize": 76501,
-      "sha256": "a8073c7b875723442292f85fc9636082e210c2de322394fbdb5691ff72939ce4",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psi-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 76667,
+      "sha256": "ab3585968cea1e93ce04957e97f65172edaa226f04426773f4a9a7545e25b665",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psi-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "异界传送: 依尼翠（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -549,7 +549,7 @@
         "conflicts": []
       },
       "lineage": "9e8fdefc-2c43-4ff9-8a70-334f659a934e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -559,10 +559,10 @@
       "category": "rules",
       "name": "异界传送: 卡拉德许",
       "nameEn": "Plane Shift: Kaladesh",
-      "version": "1.5.1",
-      "byteSize": 47416,
-      "sha256": "867ee13dea9d8afcba87ba8f46a12680a6d5508e84a3727f75c7578250797820",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psk-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 47529,
+      "sha256": "ef3bbc867729bf8eefcd3fddeeccdf710ecd2bbde9afc5290bff28fa064898fe",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psk-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "异界传送: 卡拉德许（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -588,7 +588,7 @@
         "conflicts": []
       },
       "lineage": "b0d8cb79-f9a3-47a7-802b-cf7db90f5b2f",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -598,10 +598,10 @@
       "category": "rules",
       "name": "异界传送: 阿芒凯",
       "nameEn": "Plane Shift: Amonkhet",
-      "version": "1.5.1",
-      "byteSize": 61153,
-      "sha256": "660c39d82acb6b71616ee73e1b3da2c352075577d089c13ed6d1ddd84648abcc",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psa-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 61239,
+      "sha256": "8de4e72a3401b8fadf6a2de39a62e7d8e8816958b8a811944c7ab59a2f693d07",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psa-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "异界传送: 阿芒凯（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -620,7 +620,7 @@
         "conflicts": []
       },
       "lineage": "8dbff291-c76f-4746-86b0-1d00c02ffb7a",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -630,10 +630,10 @@
       "category": "rules",
       "name": "异界传送: 依夏兰",
       "nameEn": "Plane Shift: Ixalan",
-      "version": "1.5.1",
-      "byteSize": 61022,
-      "sha256": "ff8e8edb0f0a5db454a9402f297781fefe0c9e4c796222b5318a93b07084515f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psx-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 61154,
+      "sha256": "3d0966c07974c33ab617f76d6bac2f7f64aa536d9ab7dbe9cdb39b8db3714f3f",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psx-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "异界传送: 依夏兰（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -656,7 +656,7 @@
         "conflicts": []
       },
       "lineage": "739526a8-c859-49f6-8760-00f7f057a597",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -666,10 +666,10 @@
       "category": "rules",
       "name": "异界传送: 多明尼亚",
       "nameEn": "Plane Shift: Dominaria",
-      "version": "1.5.1",
-      "byteSize": 14444,
-      "sha256": "90c66de536dd7d7aa8c64d3ff1ce7c7cce3ed140967bf13e98a422aa4091910f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psd-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 14509,
+      "sha256": "5473ee09e68d08619dcaea425b8fac0062aea547f0345b6f852b70e6dd586507",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-psd-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "异界传送: 多明尼亚（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -688,7 +688,7 @@
         "conflicts": []
       },
       "lineage": "deb92571-9d72-468a-8afd-144ad8e4b2e7",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -698,10 +698,10 @@
       "category": "rules",
       "name": "拉尼卡公会长指南",
       "nameEn": "Guildmasters' Guide to Ravnica",
-      "version": "1.5.1",
-      "byteSize": 162973,
-      "sha256": "b5a5de72d4242006a57109677155ae4608600854b30451f1f9207cdccdb61a69",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ggr-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 163565,
+      "sha256": "05643515618e3cd34e5d5b9ff563f2ba92d96b2dad7d00e7956037ce5443036c",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ggr-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "拉尼卡公会长指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -724,7 +724,7 @@
         "conflicts": []
       },
       "lineage": "90947057-e83b-426a-833e-0cfed8b67d43",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -734,10 +734,10 @@
       "category": "rules",
       "name": "艾奎兹玄有限责任公司",
       "nameEn": "Acquisitions Incorporated",
-      "version": "1.5.1",
-      "byteSize": 56024,
-      "sha256": "4f47947592f4a8be465296fa2691275e63bf9a64dc3c694dad0d5a832e984596",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ai-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 56282,
+      "sha256": "61bb26809a693ee4c4dec5a43299d8a67f05e35f85af26425049c8e953883ea6",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ai-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "艾奎兹玄有限责任公司（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -756,7 +756,7 @@
         "conflicts": []
       },
       "lineage": "419202a7-fda3-43cc-83b3-6a7237ad0c48",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -766,10 +766,10 @@
       "category": "rules",
       "name": "与穆克一起冒险",
       "nameEn": "Adventure with Muk",
-      "version": "1.5.1",
-      "byteSize": 16162,
-      "sha256": "26441ea8055cdc2786220829c6f44e44b1ab0fa684c9fcaebf8d995bc459ed37",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-awm-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 16223,
+      "sha256": "a5f1a917fb336415aaa998add2e33257616a03d938d1dbc3610a57b3396f559b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-awm-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "与穆克一起冒险（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -788,7 +788,7 @@
         "conflicts": []
       },
       "lineage": "6a573b24-ffce-49a9-8e03-8e7f7024717e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -798,10 +798,10 @@
       "category": "rules",
       "name": "艾伯伦:从终末战争中崛起",
       "nameEn": "Eberron: Rising from the Last War",
-      "version": "1.5.1",
-      "byteSize": 110582,
-      "sha256": "c6a594d6ed634dd8b5af20c24d901cf49786f2ab5b6325ff6a811bb6dd85b141",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-erlw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 111028,
+      "sha256": "f5f1366d98d7bf42e7ae62ab672f99d0f32ceb46085da1dc6d6f343beedcf0b0",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-erlw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "艾伯伦:从终末战争中崛起（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -820,7 +820,7 @@
         "conflicts": []
       },
       "lineage": "6436bad7-5758-4ac5-8b0e-cb007ee9f289",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -830,10 +830,10 @@
       "category": "rules",
       "name": "荒洲探险家指南",
       "nameEn": "Explorer's Guide to Wildemount",
-      "version": "1.5.1",
-      "byteSize": 94061,
-      "sha256": "bef9a0e26d8445512fe9a4faca15772deece441cbf87cf4bd8966d1e97826fce",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-egw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 94436,
+      "sha256": "73b9a251af482c499a185268dc59595f002614bb4a7da59c57179fb8ac039875",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-egw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "荒洲探险家指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -852,7 +852,7 @@
         "conflicts": []
       },
       "lineage": "a0151e3a-7fc1-4845-8725-6515f50d9243",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -862,10 +862,10 @@
       "category": "rules",
       "name": "塞洛斯之神话奥德赛",
       "nameEn": "Mythic Odysseys of Theros",
-      "version": "1.5.1",
-      "byteSize": 105283,
-      "sha256": "7b5c547c0b62de729ef0ba4861296841b5986da1e97274d5ba9c629384a0ba84",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mot-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 105645,
+      "sha256": "c3a445242216816a48e65008f2a03ec8c1ae9c016ed5192095e2cc6ffad13729",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mot-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "塞洛斯之神话奥德赛（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -888,7 +888,7 @@
         "conflicts": []
       },
       "lineage": "3597ad9c-f2d6-4d51-8148-f6aaea35853e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -898,10 +898,10 @@
       "category": "rules",
       "name": "穆克的塔莎所授万事指南",
       "nameEn": "Muk's Guide to Everything He Learned From Tasha",
-      "version": "1.5.1",
-      "byteSize": 10889,
-      "sha256": "7a76da804427225f96d9a33fa8f6dc96a08c7bebd58de64c8c6aea1b5f65224a",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mgelft-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 10963,
+      "sha256": "a0a0d9167e85c07f92348e91b9f3e64cb5ae45c568922fdfcebd2490e4223371",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mgelft-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "穆克的塔莎所授万事指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -920,7 +920,7 @@
         "conflicts": []
       },
       "lineage": "6006ec31-26b7-4570-8a62-8d218fea8455",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -930,10 +930,10 @@
       "category": "rules",
       "name": "范·里希腾的鸦阁魔域指南",
       "nameEn": "Van Richten's Guide to Ravenloft",
-      "version": "1.5.1",
-      "byteSize": 98323,
-      "sha256": "47ebc0ef772a1a3254d4c626eb417dad68a968c4d471528fbd9dacbcacd7e620",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-vrgr-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 98447,
+      "sha256": "2a519cd8f1a11204425a6559448ffc198c6898090e54d43cd6d8aef22c3d73d7",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-vrgr-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "范·里希腾的鸦阁魔域指南（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -952,7 +952,7 @@
         "conflicts": []
       },
       "lineage": "05c78313-1abe-422c-8564-09a2463f3ff9",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -962,10 +962,10 @@
       "category": "rules",
       "name": "欢欣领域",
       "nameEn": "Domains of Delight",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "byteSize": 6179,
-      "sha256": "34a9bfce255d641128f1d31ff715049f10e8cab4472a46a52e5e0d6780746e67",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dod-1.5.1.trpgpack",
+      "sha256": "4dce32f3cfbf228dfbf3a652b8538379b23e62e42c899660a63a065d51d92d05",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dod-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "欢欣领域（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -984,7 +984,7 @@
         "conflicts": []
       },
       "lineage": "e8ebbd87-11ac-4838-8ca4-3a0b8f8d22ed",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -994,10 +994,10 @@
       "category": "rules",
       "name": "明斯克与布布恶棍志",
       "nameEn": "Minsc and Boo's Journal of Villainy",
-      "version": "1.5.1",
-      "byteSize": 228540,
-      "sha256": "aa806c07e2aa020bf34ccbcbe6d63d622c310a0636f246bd6b0f0a9d65533467",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mabjov-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 229106,
+      "sha256": "1e90f25a387458fd234d609a3ecdc178f60921ec0331ae75999143219986b72f",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mabjov-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "明斯克与布布恶棍志（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1016,7 +1016,7 @@
         "conflicts": []
       },
       "lineage": "7a0433c3-276d-484b-8d13-f47fc8da3f16",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1026,10 +1026,10 @@
       "category": "rules",
       "name": "费资本的巨龙宝库",
       "nameEn": "Fizban's Treasury of Dragons",
-      "version": "1.5.1",
-      "byteSize": 366795,
-      "sha256": "bb33367a710e11430003e214af991d56f9f2b7e245889594661d226fe8311f28",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ftd-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 366991,
+      "sha256": "c0d281bf98e60dee6ae40a0226a70392ea055cb8e2d8e14e492771a67d4d13df",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ftd-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "费资本的巨龙宝库（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1048,7 +1048,7 @@
         "conflicts": []
       },
       "lineage": "03a60426-5da7-484c-8e88-386bae8e4611",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1058,10 +1058,10 @@
       "category": "rules",
       "name": "斯翠海文：混沌研习",
       "nameEn": "Strixhaven: A Curriculum of Chaos",
-      "version": "1.5.1",
-      "byteSize": 85578,
-      "sha256": "c1ec8e90bedfce056c9fd0a7039000eee49e7d5425da978106600261ba4e0999",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-scc-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 85616,
+      "sha256": "39831e0b823a71fde52f76477d2766a0dce0a8822f3bcf6997a12b6b4615d72b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-scc-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "斯翠海文：混沌研习（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1080,7 +1080,7 @@
         "conflicts": []
       },
       "lineage": "82bcb688-1eb0-4f7a-8b94-b5e4d139a000",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1090,10 +1090,10 @@
       "category": "rules",
       "name": "怪物合集第一期: 魔法船生物",
       "nameEn": "Monstrous Compendium Volume 1: Spelljammer Creatures",
-      "version": "1.5.1",
-      "byteSize": 29557,
-      "sha256": "8ed57bf706c559283291af7f1cb2c82735e79d8b1ebbb7b4f1315ff364f07a0f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mcv1sc-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 29559,
+      "sha256": "9b3c8328db4b6ec81377e2ea9715b58302c7fe93df3e3a7fa5a09a0fa2e91097",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mcv1sc-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "怪物合集第一期: 魔法船生物（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1112,7 +1112,7 @@
         "conflicts": []
       },
       "lineage": "3cee4c8a-f6d3-45fe-87ea-a59d73cb38b7",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1122,10 +1122,10 @@
       "category": "rules",
       "name": "布布的星界怪兽展",
       "nameEn": "Boo's Astral Menagerie",
-      "version": "1.5.1",
-      "byteSize": 119432,
-      "sha256": "59688a1f30c702a3b42b32dc7e40480bbd82a09b6319ed89529271b683607438",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bam-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 119816,
+      "sha256": "b923ba7e74d329b3af0b2ad2dec5e4e758d94bb5af5bb07347f7906e6c2eb381",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bam-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "布布的星界怪兽展（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1144,7 +1144,7 @@
         "conflicts": []
       },
       "lineage": "10072cf9-d6c7-48d0-87aa-b212835b057c",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1154,10 +1154,10 @@
       "category": "rules",
       "name": "盗贼画廊",
       "nameEn": "Thieves' Gallery",
-      "version": "1.5.1",
-      "byteSize": 18597,
-      "sha256": "81a870636ac00db1d4e758daa3a23e769c72fb4d34cc1b049cf8ab4219dac6f9",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hattg-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 18685,
+      "sha256": "932e95f0431f77d0c2ae471e628ccae37d87086e535fe848205adbe6c7bad439",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hattg-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "盗贼画廊（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1176,7 +1176,7 @@
         "conflicts": []
       },
       "lineage": "1f0f8c01-3c68-4cdb-8ef7-2f6f25b68a91",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1186,10 +1186,10 @@
       "category": "rules",
       "name": "毕格比巨献：巨人之荣耀",
       "nameEn": "Bigby Presents: Glory of the Giants",
-      "version": "1.5.1",
-      "byteSize": 159933,
-      "sha256": "ba8d0a794bbe69b5d6ff851bbe9c99963b31628c4491a9faf50b47d90110b969",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bgg-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 160350,
+      "sha256": "75eefff1e8f0b79cfc6cf248cabe40925199eee038b4e7cbb9c3b5f46de0606a",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bgg-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "毕格比巨献：巨人之荣耀（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1208,7 +1208,7 @@
         "conflicts": []
       },
       "lineage": "4268bf0d-a686-4197-80dd-99a8f613056b",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1218,10 +1218,10 @@
       "category": "rules",
       "name": "怪物手册第四卷：艾尔德林生物",
       "nameEn": "Monstrous Compendium Volume 4: Eldraine Creatures",
-      "version": "1.5.1",
-      "byteSize": 60386,
-      "sha256": "84edd5d68d4aa7c045396bb152f66d402e0569c08498ed57517bdcdcc39777a4",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mcv4ec-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 60549,
+      "sha256": "ab40c471d555d4f3297ff3826c380c8d8dfa0c543646e857dfd8293558d52b5b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mcv4ec-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "怪物手册第四卷：艾尔德林生物（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1240,7 +1240,7 @@
         "conflicts": []
       },
       "lineage": "f1ecd7af-dc5f-4465-8ab0-7750880a78f8",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1250,10 +1250,10 @@
       "category": "rules",
       "name": "莫提的位面游记",
       "nameEn": "Morte's Planar Parade",
-      "version": "1.5.1",
-      "byteSize": 110610,
-      "sha256": "3060019246dbf9d601598a0353aa0cde3cf8877fd8b8d32cc72f9944d4d8d4d3",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mpp-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 110905,
+      "sha256": "88e757d72fc0825d6ef4c9d3604b52e3e14a632aaf2ae28ec545105908257062",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-mpp-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "莫提的位面游记（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1272,7 +1272,7 @@
         "conflicts": []
       },
       "lineage": "4d9868d6-53af-4ee1-87f9-e3f6d094b8cb",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1282,10 +1282,10 @@
       "category": "rules",
       "name": "冒险地图匣：葬仪社",
       "nameEn": "Adventure Atlas: The Mortuary",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "byteSize": 13059,
-      "sha256": "2fb6b31e077f7a242568899bc3f83fc4dab4cc3fd899d8007ac85783d5fb7e12",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aatm-1.5.1.trpgpack",
+      "sha256": "9ae007fb2b509c34343414a7f9664736249dc271e4d65d6c4a258d476f79e3a8",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aatm-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "冒险地图匣：葬仪社（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1304,7 +1304,7 @@
         "conflicts": []
       },
       "lineage": "4c952e0a-970e-491d-8399-bbeb9394b5bd",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1314,10 +1314,10 @@
       "category": "rules",
       "name": "凡戴尔的失落矿坑",
       "nameEn": "Lost Mine of Phandelver",
-      "version": "1.5.1",
-      "byteSize": 13198,
-      "sha256": "86ef9b73d41a3ad539ad43ca7135b20152462ce5d5e57affee534e3356de69f4",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-lmop-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 13272,
+      "sha256": "fba3e847efc7c23e34c41acc43b2df78d319d4236f5eb89aa5719d9d1fcd6e7b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-lmop-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "凡戴尔的失落矿坑（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1336,7 +1336,7 @@
         "conflicts": []
       },
       "lineage": "9f3e730b-909e-4f1a-8ec2-59526e03b65f",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1346,10 +1346,10 @@
       "category": "rules",
       "name": "龙后的宝山",
       "nameEn": "Hoard of the Dragon Queen",
-      "version": "1.5.1",
-      "byteSize": 33462,
-      "sha256": "34879b5111ba13b43daea7d229a109fb141e6507ab64e4aee022f490e71bd337",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hotdq-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 33782,
+      "sha256": "1b88656feb4c7fc6d1e808b9e0d34ba1de7f35e769a4549d0790a25ffd8c148f",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hotdq-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "龙后的宝山（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1372,7 +1372,7 @@
         "conflicts": []
       },
       "lineage": "2a04ac22-2db9-48aa-8a41-2d4f87ddfa8a",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1382,10 +1382,10 @@
       "category": "rules",
       "name": "提亚马特崛起",
       "nameEn": "Rise of Tiamat",
-      "version": "1.5.1",
-      "byteSize": 35959,
-      "sha256": "97fae840bc44245f467a58fb34080110d0dd8202402e118caf7a33b076b707f6",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-rot-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 36097,
+      "sha256": "6a9d28feea634602510eef459b882ec49ef6a0baf8ec2c0d2353122faafbfce8",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-rot-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "提亚马特崛起（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1404,7 +1404,7 @@
         "conflicts": []
       },
       "lineage": "33030211-5712-445f-8248-f26f9e6690b5",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1414,10 +1414,10 @@
       "category": "rules",
       "name": "毁灭亲王",
       "nameEn": "Princes of the Apocalypse",
-      "version": "1.5.1",
-      "byteSize": 115792,
-      "sha256": "227a433cdba8664a596e5d9294c2d17a73ddc582349939b405d2397559836e42",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-pota-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 116359,
+      "sha256": "ead27d7a93bf014004cafc4c60ca46ad717b9138eadfd5c40cd5b937eafbdd37",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-pota-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "毁灭亲王（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1437,7 +1437,7 @@
         "conflicts": []
       },
       "lineage": "48fe1624-f9a8-46e3-84d8-c936a78965a9",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1447,10 +1447,10 @@
       "category": "rules",
       "name": "逃离深渊",
       "nameEn": "Out of the Abyss",
-      "version": "1.5.1",
-      "byteSize": 133881,
-      "sha256": "4b82ff3e3c0266545d2aeeb9a9d6e216ae50991d0786ce0496ec3d989e1bf94f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-oota-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 134910,
+      "sha256": "30d948a83732a65938144955b2a5a59580c3318b4e72e5204e2213538f1d3223",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-oota-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "逃离深渊（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1473,7 +1473,7 @@
         "conflicts": []
       },
       "lineage": "1f2f4066-fa49-4d86-8400-fdea1c0db657",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1483,10 +1483,10 @@
       "category": "rules",
       "name": "施特拉德的诅咒",
       "nameEn": "Curse of Strahd",
-      "version": "1.5.1",
-      "byteSize": 152849,
-      "sha256": "3510cf6198aa8097ff02aeb6c883357a595f397bf8efbe9c894bf7ca124033c1",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-cos-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 153808,
+      "sha256": "5eac548f5b5306ea5a6ba42d5e1ac3e7bb1b46e4cf50ef77178898a1550c1c52",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-cos-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "施特拉德的诅咒（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1505,7 +1505,7 @@
         "conflicts": []
       },
       "lineage": "2c21d5ba-e15f-4119-851d-644254f1622c",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1515,10 +1515,10 @@
       "category": "rules",
       "name": "风暴君王之雷霆",
       "nameEn": "Storm King's Thunder",
-      "version": "1.5.1",
-      "byteSize": 240451,
-      "sha256": "28a84bbc5e888f3b1c5c520f25a75b9aee206c2016e829ac2c419e6c4dbf922e",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-skt-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 243406,
+      "sha256": "f2f7b88e154ef4144682f00de6f6e63b89e0980b35c5188a45badfa35c463e87",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-skt-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "风暴君王之雷霆（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1537,7 +1537,7 @@
         "conflicts": []
       },
       "lineage": "1dffa34a-a104-4c67-8a9f-09524d6f2779",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1547,10 +1547,10 @@
       "category": "rules",
       "name": "哈欠传送门故事集",
       "nameEn": "Tales from the Yawning Portal",
-      "version": "1.5.1",
-      "byteSize": 190817,
-      "sha256": "05a696d7ef496fecf9c7ff755ecee91e770cb14760683b1df3aa0d44ad637f6d",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tftyp-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 191882,
+      "sha256": "12ec957ee05e76b35ed54e6390c3a4481738dcc1293df9e629a426785637b659",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tftyp-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "哈欠传送门故事集（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1569,7 +1569,7 @@
         "conflicts": []
       },
       "lineage": "68da9c2e-09c0-45b5-8a8f-5f5d12689103",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1579,10 +1579,10 @@
       "category": "rules",
       "name": "湮灭之墓",
       "nameEn": "Tomb of Annihilation",
-      "version": "1.5.1",
-      "byteSize": 143869,
-      "sha256": "950d6ce65e22d72123e245b86956f7dd0a3091e35be2733fa99e9c802097b383",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-toa-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 144762,
+      "sha256": "c6e927ee650b4afad75e0268bcbf2d5224d6e845eda4e9258db24cc708475dbb",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-toa-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "湮灭之墓（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1601,7 +1601,7 @@
         "conflicts": []
       },
       "lineage": "7a309e8d-a86d-4332-8ad0-90d4f5835591",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1611,10 +1611,10 @@
       "category": "rules",
       "name": "龟人扩充包",
       "nameEn": "The Tortle Package",
-      "version": "1.5.1",
-      "byteSize": 10085,
-      "sha256": "cfab1ae974029c0c3b5bfa464983b9dee4c407b9d2580a8578399215ab432d1b",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ttp-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 10119,
+      "sha256": "9428007a722d953f760f2bc7ce49311b1c09162993976c23ed1a03a0afd0429b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-ttp-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "龟人扩充包（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1633,7 +1633,7 @@
         "conflicts": []
       },
       "lineage": "b020360f-dc9b-495a-8b01-1a6d73da8713",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1643,10 +1643,10 @@
       "category": "rules",
       "name": "深水城: 龙金劫",
       "nameEn": "Waterdeep: Dragon Heist",
-      "version": "1.5.1",
-      "byteSize": 160213,
-      "sha256": "09d8d0f1dab24e1d0889ff66910d6b74a63a53f575af98dd00a198751f0c517b",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-wdh-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 161997,
+      "sha256": "7bdd5219c0b02f75cf85eae4cef8cc16426069fdf44a6b8f5fa3283336a1897b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-wdh-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "深水城: 龙金劫（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1669,7 +1669,7 @@
         "conflicts": []
       },
       "lineage": "a4582f9c-207e-493b-8832-f0125ac7d30b",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1679,10 +1679,10 @@
       "category": "rules",
       "name": "夸力许的失落实验室",
       "nameEn": "Lost Laboratory of Kwalish",
-      "version": "1.5.1",
-      "byteSize": 25436,
-      "sha256": "3ee4c6a7a9af0b5cf3bb5ca4b3ca3240c5f9e6c509729809465c8e7be397237f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-llk-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 25571,
+      "sha256": "7df9967d02f3760aab76e4b012fffab40f7791693511245bc9b9a4daa456a5fc",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-llk-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "夸力许的失落实验室（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1701,7 +1701,7 @@
         "conflicts": []
       },
       "lineage": "c9e62390-157e-4d57-8887-899b813c17a9",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1711,10 +1711,10 @@
       "category": "rules",
       "name": "深水城: 疯法师的地城",
       "nameEn": "Waterdeep: Dungeon of the Mad Mage",
-      "version": "1.5.1",
-      "byteSize": 196696,
-      "sha256": "7f13e1e609af03331aee6ca95ffdcb8113b98de32a2552c52b928563fac7ab68",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-wdmm-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 197506,
+      "sha256": "59a355eea9ddf1ce31b57695dab6cda40fd1134626aa72be08cd0dd4a02e6fd4",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-wdmm-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "深水城: 疯法师的地城（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1733,7 +1733,7 @@
         "conflicts": []
       },
       "lineage": "9edb6229-84ba-458e-8989-0712c9d56b22",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1743,10 +1743,10 @@
       "category": "rules",
       "name": "追捕克仑可",
       "nameEn": "Krenko's Way",
-      "version": "1.5.1",
-      "byteSize": 4558,
-      "sha256": "87b5f7061305e56de3e0f5ae3565c46ed1f63aa935023efd6d18a057b1e52e2a",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-kkw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 4638,
+      "sha256": "0087795051d54af699e1872c2183880caad9354b1779e0ad8fa65b855fff8c1e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-kkw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "追捕克仑可（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1765,7 +1765,7 @@
         "conflicts": []
       },
       "lineage": "365b9c30-d95c-48c1-8db9-3feacc0336bf",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1775,10 +1775,10 @@
       "category": "rules",
       "name": "盐沼幽魂",
       "nameEn": "Ghosts of Saltmarsh",
-      "version": "1.5.1",
-      "byteSize": 67304,
-      "sha256": "92c6e93b1f7c9f8ca6a45f1a5bc015651e9d8991256e3e9aaaa786a267ba18cc",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-gos-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 67783,
+      "sha256": "dc3f0b734aadef09b0c13a39bc3aa2c1021b7f9ea12143765f7162b57ecc80ef",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-gos-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "盐沼幽魂（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1802,7 +1802,7 @@
         "conflicts": []
       },
       "lineage": "ea6d126c-a20d-423c-8776-a7288c29aa56",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1812,10 +1812,10 @@
       "category": "rules",
       "name": "寻找特萨尔蛇蜥",
       "nameEn": "Hunt for the Thessalhydra",
-      "version": "1.5.1",
-      "byteSize": 6121,
-      "sha256": "c3741741ba6bf5e43373bad35205151793ccefa9dbdbc2701b55f47da2252c62",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hftt-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 6155,
+      "sha256": "bb0b6947892bcc912a6b066d08016d3f3fa7e94c0b9fe9232137a0c696f56e0c",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hftt-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "寻找特萨尔蛇蜥（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1838,7 +1838,7 @@
         "conflicts": []
       },
       "lineage": "fb77eb5c-368f-4a07-8a3a-9c5cf767ff6c",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1848,10 +1848,10 @@
       "category": "rules",
       "name": "位面游荡仪",
       "nameEn": "The Orrery of the Wanderer",
-      "version": "1.5.1",
-      "byteSize": 16551,
-      "sha256": "cde2e996b027ec9ba02fa3144070d4aea5a312d5551707765665dd97fdf395fe",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-oow-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 16683,
+      "sha256": "2a5933effd90bca962039690b3cc46e89e314794f2cce5a91753de7102624018",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-oow-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "位面游荡仪（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1871,7 +1871,7 @@
         "conflicts": []
       },
       "lineage": "0e2c6297-1663-4905-86f6-cdb2c000d23e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1881,10 +1881,10 @@
       "category": "rules",
       "name": "基础包：冰塔峰之龙",
       "nameEn": "Essentials Kit: Dragon of Icespire Peak",
-      "version": "1.5.1",
-      "byteSize": 9497,
-      "sha256": "8b3c733be97b6ddf23ba847462b8d68b6048f1a440d5efc0087db499928b57a5",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dip-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 9563,
+      "sha256": "d84074fe6a17f92202eb32556f0a23979ed5b4f0978a5554918abdf778b8a693",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dip-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "基础包：冰塔峰之龙（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1904,7 +1904,7 @@
         "conflicts": []
       },
       "lineage": "79d3f0bb-f716-4cf0-8fa0-e172cebd8bcb",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1914,10 +1914,10 @@
       "category": "rules",
       "name": "基础套组",
       "nameEn": "Essentials Kit",
-      "version": "1.5.1",
-      "byteSize": 4271,
-      "sha256": "564dc82428431c4fb3b58f61b804783682cb43043b9f8de04c1ff79e319215d0",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-esk-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 4354,
+      "sha256": "598b07ab77972940f07260ceb3f6cadf4ee95b1a78a8390635c0587fa8472017",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-esk-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "基础套组（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1936,7 +1936,7 @@
         "conflicts": []
       },
       "lineage": "bd534856-6376-4eb2-8294-64c5f6e85a1d",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1946,10 +1946,10 @@
       "category": "rules",
       "name": "基础包：神圣的争夺",
       "nameEn": "Essentials Kit: Divine Contention",
-      "version": "1.5.1",
-      "byteSize": 10195,
-      "sha256": "74cb80251e40aaf93fff99bcf9b289ed4559a84ed25c723eb0856c77512d64fa",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dc-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 10278,
+      "sha256": "0cea678faf6a04f67c8e8b140f6e9b19977167393147f06aa8f0f057e34fc74c",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dc-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "基础包：神圣的争夺（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -1972,7 +1972,7 @@
         "conflicts": []
       },
       "lineage": "dc80948a-b204-4ddf-85d1-353bfe3538bb",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1982,10 +1982,10 @@
       "category": "rules",
       "name": "基础包：沉睡巨龙醒转",
       "nameEn": "Essentials Kit: Sleeping Dragon's Wake",
-      "version": "1.5.1",
-      "byteSize": 14666,
-      "sha256": "8680c227751545e6181d4b164a7cd5106d8a0ca4a5527384db58be24cfcf63f2",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-sdw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 14754,
+      "sha256": "b77d6d298ac577907340bebeddfe89bd67d44e4145625ec2453a798bcc45023e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-sdw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "基础包：沉睡巨龙醒转（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2011,7 +2011,7 @@
         "conflicts": []
       },
       "lineage": "675fbc11-acde-4b2b-8390-32b295626a81",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2021,10 +2021,10 @@
       "category": "rules",
       "name": "基础包：风暴领主之怒",
       "nameEn": "Essentials Kit: Storm Lord's Wrath",
-      "version": "1.5.1",
-      "byteSize": 8183,
-      "sha256": "64732c0364d4411dc8c2c05a6247ea2c39124c03f837122a497c7d5906219b22",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-slw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 8267,
+      "sha256": "e45ba11ba662e348d7412b2c98b43050d589feb0b6209d84a8a4a1fc73189ef7",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-slw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "基础包：风暴领主之怒（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2050,7 +2050,7 @@
         "conflicts": []
       },
       "lineage": "076fa9e4-7ff9-4b67-802f-919fca2b5278",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2060,10 +2060,10 @@
       "category": "rules",
       "name": "博德之门: 坠入阿弗纳斯",
       "nameEn": "Baldur's Gate: Descent Into Avernus",
-      "version": "1.5.1",
-      "byteSize": 103927,
-      "sha256": "67dffe8f5246f05c968cea8e1e2075467dbfcfcf1180b625cf5ec837d63fddac",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bgdia-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 104304,
+      "sha256": "860da7a666b3db9baabc371b759c856296ad7df4096f81e1464e5ec97833275a",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-bgdia-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "博德之门: 坠入阿弗纳斯（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2086,7 +2086,7 @@
         "conflicts": []
       },
       "lineage": "a4e6317e-264e-4f0d-80b4-ceb40c42c2d8",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2096,10 +2096,10 @@
       "category": "rules",
       "name": "洛卡鱼人崛起",
       "nameEn": "Locathah Rising",
-      "version": "1.5.1",
-      "byteSize": 15313,
-      "sha256": "8ad45c0d4f48b338bf68ff034d7394abc5f78d4b4d60af7c49110fe98beff2a0",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-lr-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 15379,
+      "sha256": "c1d7953ebafb4a121c16847fd7bf0ad783db44b9539b62dfa4b5a323dcb858ab",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-lr-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "洛卡鱼人崛起（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2118,7 +2118,7 @@
         "conflicts": []
       },
       "lineage": "fc847ab9-8bcc-4475-8704-1c29eefa2eb6",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2128,10 +2128,10 @@
       "category": "rules",
       "name": "重建炼狱机器",
       "nameEn": "Infernal Machine Rebuild",
-      "version": "1.5.1",
-      "byteSize": 41696,
-      "sha256": "062fea0765a4ce52e46ad31964bb8ec05e874510e783c880dcfc3dc59198fdf3",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-imr-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 41866,
+      "sha256": "1c66bb3dfacfacba630f9592f6a98e74977d99bc30eeccc8f590b8c463490748",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-imr-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "重建炼狱机器（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2155,7 +2155,7 @@
         "conflicts": []
       },
       "lineage": "b3c06910-adb6-40cc-8cbc-a169232b42c8",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2165,10 +2165,10 @@
       "category": "rules",
       "name": "最瑞克的失落地城: 大瑞克之力",
       "nameEn": "The Lost Dungeon of Rickedness: Big Rick Energy",
-      "version": "1.5.1",
-      "byteSize": 9321,
-      "sha256": "1a9316f96239b3889b0b75e690c39089aa31c815d5d4093e5f242ac807a002cf",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-rmbre-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 9405,
+      "sha256": "30b399d5eadbd2af6843dedc0ee9503556cdac0c75eddf01d895cb1ceed41827",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-rmbre-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "最瑞克的失落地城: 大瑞克之力（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2191,7 +2191,7 @@
         "conflicts": []
       },
       "lineage": "42698c6e-062d-4684-8ad7-b498c5820de4",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2201,10 +2201,10 @@
       "category": "rules",
       "name": "冰风谷: 冰霜少女的雾凇",
       "nameEn": "Icewind Dale: Rime of the Frostmaiden",
-      "version": "1.5.1",
-      "byteSize": 151917,
-      "sha256": "92d66a74ce81c53628862d31396a4b38a401d7276d7b44b810ad8c45dc4f05b3",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-idrotf-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 152533,
+      "sha256": "c57fcad3cc0db8e1009b9ba84b2c2a618efd5b286720c3f4761367c863895c26",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-idrotf-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "冰风谷: 冰霜少女的雾凇（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2231,7 +2231,7 @@
         "conflicts": []
       },
       "lineage": "5bab2431-0986-4e9a-8c4a-8c5a980d877b",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2241,10 +2241,10 @@
       "category": "rules",
       "name": "烛堡秘辛",
       "nameEn": "Candlekeep Mysteries",
-      "version": "1.5.1",
-      "byteSize": 87732,
-      "sha256": "89c8c9495ad5afd46140938678ba5499841f9daed8eaf372c573b243ed4e398f",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-cm-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 87913,
+      "sha256": "3c21c0ff239fd03ea16c59f445119c447315e98d25a603797c29d347b8a0e594",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-cm-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "烛堡秘辛（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2268,7 +2268,7 @@
         "conflicts": []
       },
       "lineage": "7c78230a-caa6-45b3-8a3e-4d78d315a8f1",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2278,10 +2278,10 @@
       "category": "rules",
       "name": "鸦阁：悲叹之屋",
       "nameEn": "Ravenloft: The House of Lament",
-      "version": "1.5.1",
-      "byteSize": 5659,
-      "sha256": "d8deb0f72740dd1a425264aa4950a4abeffc29c1592a89134c9ce3209a26fdbb",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hol-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 5723,
+      "sha256": "e0e8cd93836dc3897327c7f9b63acbca0c16084d4fcf76970f98eb05cc46e146",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-hol-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "鸦阁：悲叹之屋（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2305,7 +2305,7 @@
         "conflicts": []
       },
       "lineage": "3b2ab1f8-5b16-4470-8a9d-4fbf75388ced",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2315,10 +2315,10 @@
       "category": "rules",
       "name": "回归荣耀",
       "nameEn": "Return to the Glory",
-      "version": "1.5.1",
-      "byteSize": 6223,
-      "sha256": "dd6417a914037b3b1b5cd33ebef84c71b1c7a5ef3369fd222d1ca8f44c4f2c8d",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-rtg-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 6269,
+      "sha256": "7afb830b6fdf2dab7531d016147982ff96a2c819730a3cdfc12db172cf82a653",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-rtg-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "回归荣耀（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2337,7 +2337,7 @@
         "conflicts": []
       },
       "lineage": "1af99a9a-3590-4b36-8fdd-1aec70e25f81",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2347,10 +2347,10 @@
       "category": "rules",
       "name": "被遗忘国度的冒险：绯红烈焰",
       "nameEn": "Adventures in the Forgotten Realms: In Scarlet Flames",
-      "version": "1.5.1",
-      "byteSize": 6141,
-      "sha256": "33da7fd1105b11ceed806ca66b969cad30354fd43833eb3d4e89ae8d6963d576",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrisf-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 6176,
+      "sha256": "a00e7706fc4d09cb773b906d8f1b8851dfb362b75baad50dab38751a791b2e88",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrisf-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "被遗忘国度的冒险：绯红烈焰（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2369,7 +2369,7 @@
         "conflicts": []
       },
       "lineage": "13f3c3bd-0895-4168-847b-a15a021ad407",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2379,10 +2379,10 @@
       "category": "rules",
       "name": "被遗忘国度的冒险：隐秘书页",
       "nameEn": "Adventures in the Forgotten Realms: The Hidden Page",
-      "version": "1.5.1",
-      "byteSize": 11319,
-      "sha256": "b3bee89f4af0106990f432e90dab13805ed4f476a57f4a8067755f6515d6f3ab",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrthp-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 11357,
+      "sha256": "967e473293fdef0c002e66b4dd7f162885677c91c357efa02eddfbc8db6f7ee5",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrthp-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "被遗忘国度的冒险：隐秘书页（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2401,7 +2401,7 @@
         "conflicts": []
       },
       "lineage": "2ea780c2-bbb8-4448-87dd-997a31439f44",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2411,10 +2411,10 @@
       "category": "rules",
       "name": "被遗忘国度的冒险：至暗之夜",
       "nameEn": "Adventures in the Forgotten Realms: Deepest Night",
-      "version": "1.5.1",
-      "byteSize": 13670,
-      "sha256": "36a7102f940e4ea189fc7d200053a7dec5cdc516534527d6c3b496b52f1ead70",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrdn-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 13706,
+      "sha256": "d80b0f2fd51ebbd218043f9f1c6f5db7b2efd54d0c890922191fde681a94c576",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrdn-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "被遗忘国度的冒险：至暗之夜（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2433,7 +2433,7 @@
         "conflicts": []
       },
       "lineage": "0d22f29c-ce33-4949-89d9-6bb0aac16536",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2443,10 +2443,10 @@
       "category": "rules",
       "name": "被遗忘国度的冒险：青渊来客",
       "nameEn": "Adventures in the Forgotten Realms: From Cyan Depths",
-      "version": "1.5.1",
-      "byteSize": 9795,
-      "sha256": "048aa371d1f548cc0d59ab959067538f4744729c4ea45eb2359f1e3fa1a57db0",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrfcd-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 9851,
+      "sha256": "461cbfec4ab12d84b62c72873911b07ab8832ac6acb4617e16e29f06a3bd5734",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-aitfrfcd-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "被遗忘国度的冒险：青渊来客（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2465,7 +2465,7 @@
         "conflicts": []
       },
       "lineage": "b1de71e6-af14-4bbb-82ac-d5d0e166eb61",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2475,10 +2475,10 @@
       "category": "rules",
       "name": "NERDS 恢复和谐：棘手局面",
       "nameEn": "NERDS Restoring Harmony: A Sticky Situation",
-      "version": "1.5.1",
-      "byteSize": 2198,
-      "sha256": "edb69a2edc7a704440fede26433300845942eda181a7a285da7a489ac942631a",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhass-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 2241,
+      "sha256": "1ee1ca724a53141fb4051c9db8d1799225a14d92e8bd7941ce1d47dfae7d4ec2",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhass-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "NERDS 恢复和谐：棘手局面（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2497,7 +2497,7 @@
         "conflicts": []
       },
       "lineage": "3be44fb6-eb6a-4bdb-891a-96a77ab21e11",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2507,10 +2507,10 @@
       "category": "rules",
       "name": "NERDS 恢复和谐：共同冒险",
       "nameEn": "NERDS Restoring Harmony: Adventure Together",
-      "version": "1.5.1",
-      "byteSize": 11376,
-      "sha256": "cb6107f201da0a0050b94c4577bc224bc318dfb2f9ac03c59c285958b3a44543",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhat-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 11448,
+      "sha256": "e7aa0eabc4335768b3bd60ee925359130511df7d93520312debcbd950f00d674",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhat-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "NERDS 恢复和谐：共同冒险（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2529,7 +2529,7 @@
         "conflicts": []
       },
       "lineage": "c3276c6d-18c9-41f6-865a-96dc22b12345",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2539,10 +2539,10 @@
       "category": "rules",
       "name": "NERDS 恢复和谐：荒野呼唤",
       "nameEn": "NERDS Restoring Harmony: A Voice in the Wilderness",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "byteSize": 2970,
-      "sha256": "6873e46a0115117fbd7bf0761d25b69a2ec647f1d8dd060cfab2cda92d72cd84",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhavitw-1.5.1.trpgpack",
+      "sha256": "bc70a705b09fc3afd8c1d7529a8275207be12d95be7778c95a16b3702b845552",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhavitw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "NERDS 恢复和谐：荒野呼唤（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2565,7 +2565,7 @@
         "conflicts": []
       },
       "lineage": "1d6396d3-d773-4e09-8ac5-1980148c9fed",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2575,10 +2575,10 @@
       "category": "rules",
       "name": "NERDS 恢复和谐：谎言之网",
       "nameEn": "NERDS Restoring Harmony: A Web of Lies",
-      "version": "1.5.1",
-      "byteSize": 3028,
-      "sha256": "dea2b931d092d0280d51c27a7355e80cba173898752f5eac35cab3aa7c50ab62",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhawol-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 3029,
+      "sha256": "617771a7097810335eb2688745d435bf5c22667e9cde0e8249636cd88e65fb7e",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhawol-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "NERDS 恢复和谐：谎言之网（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2597,7 +2597,7 @@
         "conflicts": []
       },
       "lineage": "f5caaaf1-9c31-43e8-8a3d-c2c49ef21f85",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2607,10 +2607,10 @@
       "category": "rules",
       "name": "NERDS 恢复和谐：幻象马戏团",
       "nameEn": "NERDS Restoring Harmony: Circus of Illusion",
-      "version": "1.5.1",
-      "byteSize": 3191,
-      "sha256": "a3b42db0f6d8790bf1f6be5bfc9abec1e58f964a2565cd32864a8b176bbf9028",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhcoi-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 3237,
+      "sha256": "d1a534eb7979a6dbc31c90791dcd2292f5d74bec91e419f8f68cb1f733dbe79b",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhcoi-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0",
       "description": "NERDS 恢复和谐：幻象马戏团（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2629,7 +2629,7 @@
         "conflicts": []
       },
       "lineage": "d3930602-54ae-4281-81b2-60ae5ef0fc6a",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2639,10 +2639,10 @@
       "category": "rules",
       "name": "NERDS 恢复和谐：糖果山冒险",
       "nameEn": "NERDS Restoring Harmony: The Candy Mountain Caper",
-      "version": "1.5.1",
-      "byteSize": 4321,
-      "sha256": "09de30faeb8b7a8de3eed12ab0fe13e679e4d9e70a6aa9a5ccc19869bcd08fd3",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhtcmc-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 4361,
+      "sha256": "e9ae4e6c5ede70124bc4a1e53f1d96da209feda40acb23c4d2385d4eabc21d10",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-nrhtcmc-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "NERDS 恢复和谐：糖果山冒险（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2661,7 +2661,7 @@
         "conflicts": []
       },
       "lineage": "fadd2494-16da-4033-80de-0fe28849aacf",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2671,10 +2671,10 @@
       "category": "rules",
       "name": "巫光之外的荒野",
       "nameEn": "The Wild Beyond the Witchlight",
-      "version": "1.5.1",
-      "byteSize": 90063,
-      "sha256": "447c9f8d924cbdd37a866a32eff67b1b38e5163b8405e1d6e72e07825a5a6a5b",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-wbtw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 90436,
+      "sha256": "674afed4a1ea1532f01c23c30f1ab0360d42d5eb468cce94dd0de414b4574642",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-wbtw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "巫光之外的荒野（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2694,7 +2694,7 @@
         "conflicts": []
       },
       "lineage": "fe2cfef9-e63c-41e3-89b0-8e63879f64ec",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2704,10 +2704,10 @@
       "category": "rules",
       "name": "Critical Role: 溟渊的呼唤",
       "nameEn": "Critical Role: Call of the Netherdeep",
-      "version": "1.5.1",
-      "byteSize": 102814,
-      "sha256": "9fbaf37a70194b9b5c148e6596611d5115d17b6109dbb94f1e20e94621d0967b",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-crcotn-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 103321,
+      "sha256": "70e5943f93a245b7316874c48721112e5152f7c3468ebdf7ce87ef7f0cb7717c",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-crcotn-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "Critical Role: 溟渊的呼唤（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2727,7 +2727,7 @@
         "conflicts": []
       },
       "lineage": "febe45e9-91a2-435c-8b02-7b52ee5aab5e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2737,10 +2737,10 @@
       "category": "rules",
       "name": "耀光城之旅",
       "nameEn": "Journeys through the Radiant Citadel",
-      "version": "1.5.1",
-      "byteSize": 82344,
-      "sha256": "6175bea200394eaaf0efe82e0f9f7a9b19d4b35470dc03c09a62b7701ce4b916",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-jttrc-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 82971,
+      "sha256": "bda85c85e746b32ec668bbe9dd69ff400e8270cfe8396c90cb3944a3422e96fd",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-jttrc-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "耀光城之旅（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2760,7 +2760,7 @@
         "conflicts": []
       },
       "lineage": "d1f2b0b1-603d-44d7-86e4-e1760ca8742e",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2770,10 +2770,10 @@
       "category": "rules",
       "name": "风骸岛之龙",
       "nameEn": "Dragons of Stormwreck Isle",
-      "version": "1.5.1",
-      "byteSize": 19236,
-      "sha256": "6de7edddbb233bda61aefa63209bc16db420c91d4a04b8ac48a10d100f866b6d",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dosi-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 19320,
+      "sha256": "bf98510ddc791db8f8a11334fd12d4d0101052e7ec9a39f35743e17abb4d9f06",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dosi-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "风骸岛之龙（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2796,7 +2796,7 @@
         "conflicts": []
       },
       "lineage": "7b8f6302-e4d4-41e1-8d83-d1c4ee63fa7c",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2806,10 +2806,10 @@
       "category": "rules",
       "name": "萨利希斯之光",
       "nameEn": "Light of Xaryxis",
-      "version": "1.5.1",
-      "byteSize": 22159,
-      "sha256": "82b0545d4778c69dc39039e67974a3c7c35a133fab30d4c698396377535fc9bd",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-lox-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 22286,
+      "sha256": "99d16cfe076a4115270e04b62949ccbdaa77a878f847b9ce60295bc61c05a5b6",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-lox-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "萨利希斯之光（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2828,7 +2828,7 @@
         "conflicts": []
       },
       "lineage": "e82c083f-03ac-4b1c-81d5-1523c1996026",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2838,10 +2838,10 @@
       "category": "rules",
       "name": "龙枪:龙后之影",
       "nameEn": "Dragonlance: Shadow of the Dragon Queen",
-      "version": "1.5.1",
-      "byteSize": 120807,
-      "sha256": "021dbabb5153ab9a8c4ca9b10b1fb2c290f30601deacdcc97d3a9684d1555aaa",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dsotdq-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 121500,
+      "sha256": "251416dbbd99fe4c45d551f4317f4ef68504d4ee370c0bab742162f1d2d0fb43",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-dsotdq-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "龙枪:龙后之影（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2860,7 +2860,7 @@
         "conflicts": []
       },
       "lineage": "a9c015fd-f59d-4843-8ed2-a6afa0efd855",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2870,10 +2870,10 @@
       "category": "rules",
       "name": "金色金库的钥匙",
       "nameEn": "Keys from the Golden Vault",
-      "version": "1.5.1",
-      "byteSize": 72320,
-      "sha256": "3663823d681376e077a71048a406da4ae9ff0844a7905c549163e02fe8105aa4",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-kftgv-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 72876,
+      "sha256": "295f17be25c3aaddb7ed86555f9c90892c170fc06347e9d22b59a57b43c20369",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-kftgv-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "金色金库的钥匙（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2897,7 +2897,7 @@
         "conflicts": []
       },
       "lineage": "54e6e7af-5564-426f-83cb-058b72bf29da",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2907,10 +2907,10 @@
       "category": "rules",
       "name": "坠星熔炉的巨人",
       "nameEn": "Giants of the Star Forge",
-      "version": "1.5.1",
-      "byteSize": 3347,
-      "sha256": "0466a2a477dc658da3de3ac789cc325794336d8358c2b297cc733a20572fdc0b",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-gotsf-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 3348,
+      "sha256": "7113882b7507e6010b336c125e4f25f9d09f550125bf9968e0aabb1a1f696541",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-gotsf-1.6.0.trpgpack",
       "license": "GPL-3.0",
       "description": "坠星熔炉的巨人（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2929,7 +2929,7 @@
         "conflicts": []
       },
       "lineage": "1842dbfd-6f9b-4cde-8482-203060c50783",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2939,10 +2939,10 @@
       "category": "rules",
       "name": "凡戴尔之下:破碎方尖碑",
       "nameEn": "Phandelver and Below: The Shattered Obelisk",
-      "version": "1.5.1",
-      "byteSize": 87339,
-      "sha256": "6b5950625b09a6ce0d2f8aeb72e46ecd9a930c4b7ead643c6fad45adcd7cd826",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-pabtso-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 87963,
+      "sha256": "471db4ed53f1a9cd51ce1dd0c6644f373b633b5495683ec168129fb2b17d8629",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-pabtso-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "凡戴尔之下:破碎方尖碑（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -2965,7 +2965,7 @@
         "conflicts": []
       },
       "lineage": "c5e00d61-231e-405e-8c40-40cb49be9392",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2975,10 +2975,10 @@
       "category": "rules",
       "name": "命运之轮的轮转",
       "nameEn": "Turn of Fortune's Wheel",
-      "version": "1.5.1",
-      "byteSize": 24983,
-      "sha256": "644f7503cf54be17d5602403dc179c3e1d261b34669bb2dda8d57270f6355bae",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tofw-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 25085,
+      "sha256": "7c1448ec72414df4c20cb886f37e34b68941252195772dd440be060752a70712",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tofw-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "命运之轮的轮转（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -3002,7 +3002,7 @@
         "conflicts": []
       },
       "lineage": "7264c961-b321-46c4-8048-1309a2b77d27",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -3012,10 +3012,10 @@
       "category": "rules",
       "name": "阿斯蒙蒂斯的锁链",
       "nameEn": "Chains of Asmodeus",
-      "version": "1.5.1",
-      "byteSize": 182925,
-      "sha256": "33e2eed11f7e531d98bb789b42396414582e0f3d7fbab1b0a2561c68038c8ce2",
-      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-coa-1.5.1.trpgpack",
+      "version": "1.6.0",
+      "byteSize": 183205,
+      "sha256": "99b2a1a0f9ae6015c55b46735c7456700d009c74f23ff871182253225c494016",
+      "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-coa-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "阿斯蒙蒂斯的锁链（D&D 5e 2014）的条目、随机表与规则选项。",
       "typeCounts": {
@@ -3044,7 +3044,7 @@
         "conflicts": []
       },
       "lineage": "983a0429-8cc0-453f-853f-7ca346b51b32",
-      "updatedAt": "2026-11-02T12:29:20.614Z",
+      "updatedAt": "2026-11-02T15:50:10.062Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     }
