@@ -43,7 +43,7 @@
         "conflicts": []
       },
       "lineage": "badb4c3d-4d10-4c49-8a86-8ff9d9a8fe81",
-      "updatedAt": "2026-11-02T22:04:37.527Z",
+      "updatedAt": "2026-11-04T03:34:34.977Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -88,7 +88,7 @@
         "conflicts": []
       },
       "lineage": "c300d2cf-298e-45c7-8f88-e590542219e1",
-      "updatedAt": "2026-11-02T22:04:37.527Z",
+      "updatedAt": "2026-11-04T03:34:34.978Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -142,7 +142,7 @@
         "conflicts": []
       },
       "lineage": "56d922ec-f7c5-470a-873c-b147b23155a6",
-      "updatedAt": "2026-11-02T22:04:37.527Z",
+      "updatedAt": "2026-11-04T03:34:34.981Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -188,7 +188,7 @@
         "conflicts": []
       },
       "lineage": "9b377aac-c282-4f97-8b42-1f75f37444cd",
-      "updatedAt": "2026-11-02T22:04:37.527Z",
+      "updatedAt": "2026-11-04T03:34:34.981Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -239,7 +239,7 @@
         "conflicts": []
       },
       "lineage": "7a5e4e69-f0a3-4290-8705-13023fa5442c",
-      "updatedAt": "2026-11-02T22:04:37.527Z",
+      "updatedAt": "2026-11-04T03:34:34.981Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -250,8 +250,8 @@
       "name": "塔莎的万事坩埚",
       "nameEn": "Tasha's Cauldron of Everything",
       "version": "1.6.0",
-      "byteSize": 609345,
-      "sha256": "5c2e7ecb5b0e50ba59de016e1a7096081572c20595433b0293aec38110731637",
+      "byteSize": 609412,
+      "sha256": "3f59aa95689e11d6a09edda4b72ccac6ef4d751c41e2a7ccefea13825cbc7f6d",
       "url": "https://cdn.jsdelivr.net/gh/didhogg/tavern-trpg-data@main/packs/dnd5e2014/dnd5e2014-tce-1.6.0.trpgpack",
       "license": "CC-BY-NC-SA-4.0 OR GPL-3.0",
       "description": "塔莎的万事坩埚（D&D 5e 2014）的条目、随机表与规则选项。",
@@ -296,7 +296,7 @@
         "conflicts": []
       },
       "lineage": "758d6350-a3e2-44c6-8365-c221d45a064b",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": true,
       "group": "官方扩展 · 一档"
     },
@@ -342,7 +342,7 @@
         "conflicts": []
       },
       "lineage": "e1e20be6-5004-47b3-841d-b7a66983808e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -390,7 +390,7 @@
         "conflicts": []
       },
       "lineage": "73b084be-87ca-41fa-81b7-c118d5904f14",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -432,7 +432,7 @@
         "conflicts": []
       },
       "lineage": "83c1134d-f7e2-4988-8e3a-3116899fee38",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -481,7 +481,7 @@
         "conflicts": []
       },
       "lineage": "9ca8c865-3379-4bf3-8c83-6f156d7a0cc9",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": true,
       "group": "官方扩展 · 二档"
     },
@@ -517,7 +517,7 @@
         "conflicts": []
       },
       "lineage": "6a0882ea-6669-4d40-8d4a-d6f9418c2faf",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -549,7 +549,7 @@
         "conflicts": []
       },
       "lineage": "9e8fdefc-2c43-4ff9-8a70-334f659a934e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -588,7 +588,7 @@
         "conflicts": []
       },
       "lineage": "b0d8cb79-f9a3-47a7-802b-cf7db90f5b2f",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -620,7 +620,7 @@
         "conflicts": []
       },
       "lineage": "8dbff291-c76f-4746-86b0-1d00c02ffb7a",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -656,7 +656,7 @@
         "conflicts": []
       },
       "lineage": "739526a8-c859-49f6-8760-00f7f057a597",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -688,7 +688,7 @@
         "conflicts": []
       },
       "lineage": "deb92571-9d72-468a-8afd-144ad8e4b2e7",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -724,7 +724,7 @@
         "conflicts": []
       },
       "lineage": "90947057-e83b-426a-833e-0cfed8b67d43",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -756,7 +756,7 @@
         "conflicts": []
       },
       "lineage": "419202a7-fda3-43cc-83b3-6a7237ad0c48",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -788,7 +788,7 @@
         "conflicts": []
       },
       "lineage": "6a573b24-ffce-49a9-8e03-8e7f7024717e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -820,7 +820,7 @@
         "conflicts": []
       },
       "lineage": "6436bad7-5758-4ac5-8b0e-cb007ee9f289",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -852,7 +852,7 @@
         "conflicts": []
       },
       "lineage": "a0151e3a-7fc1-4845-8725-6515f50d9243",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -888,7 +888,7 @@
         "conflicts": []
       },
       "lineage": "3597ad9c-f2d6-4d51-8148-f6aaea35853e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -920,7 +920,7 @@
         "conflicts": []
       },
       "lineage": "6006ec31-26b7-4570-8a62-8d218fea8455",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -952,7 +952,7 @@
         "conflicts": []
       },
       "lineage": "05c78313-1abe-422c-8564-09a2463f3ff9",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -984,7 +984,7 @@
         "conflicts": []
       },
       "lineage": "e8ebbd87-11ac-4838-8ca4-3a0b8f8d22ed",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1016,7 +1016,7 @@
         "conflicts": []
       },
       "lineage": "7a0433c3-276d-484b-8d13-f47fc8da3f16",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1048,7 +1048,7 @@
         "conflicts": []
       },
       "lineage": "03a60426-5da7-484c-8e88-386bae8e4611",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1080,7 +1080,7 @@
         "conflicts": []
       },
       "lineage": "82bcb688-1eb0-4f7a-8b94-b5e4d139a000",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1112,7 +1112,7 @@
         "conflicts": []
       },
       "lineage": "3cee4c8a-f6d3-45fe-87ea-a59d73cb38b7",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1144,7 +1144,7 @@
         "conflicts": []
       },
       "lineage": "10072cf9-d6c7-48d0-87aa-b212835b057c",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1176,7 +1176,7 @@
         "conflicts": []
       },
       "lineage": "1f0f8c01-3c68-4cdb-8ef7-2f6f25b68a91",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1208,7 +1208,7 @@
         "conflicts": []
       },
       "lineage": "4268bf0d-a686-4197-80dd-99a8f613056b",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1240,7 +1240,7 @@
         "conflicts": []
       },
       "lineage": "f1ecd7af-dc5f-4465-8ab0-7750880a78f8",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1272,7 +1272,7 @@
         "conflicts": []
       },
       "lineage": "4d9868d6-53af-4ee1-87f9-e3f6d094b8cb",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1304,7 +1304,7 @@
         "conflicts": []
       },
       "lineage": "4c952e0a-970e-491d-8399-bbeb9394b5bd",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "设定与扩展书 · 三档"
     },
@@ -1336,7 +1336,7 @@
         "conflicts": []
       },
       "lineage": "9f3e730b-909e-4f1a-8ec2-59526e03b65f",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1372,7 +1372,7 @@
         "conflicts": []
       },
       "lineage": "2a04ac22-2db9-48aa-8a41-2d4f87ddfa8a",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1404,7 +1404,7 @@
         "conflicts": []
       },
       "lineage": "33030211-5712-445f-8248-f26f9e6690b5",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1437,7 +1437,7 @@
         "conflicts": []
       },
       "lineage": "48fe1624-f9a8-46e3-84d8-c936a78965a9",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1473,7 +1473,7 @@
         "conflicts": []
       },
       "lineage": "1f2f4066-fa49-4d86-8400-fdea1c0db657",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1505,7 +1505,7 @@
         "conflicts": []
       },
       "lineage": "2c21d5ba-e15f-4119-851d-644254f1622c",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1537,7 +1537,7 @@
         "conflicts": []
       },
       "lineage": "1dffa34a-a104-4c67-8a9f-09524d6f2779",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1569,7 +1569,7 @@
         "conflicts": []
       },
       "lineage": "68da9c2e-09c0-45b5-8a8f-5f5d12689103",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1601,7 +1601,7 @@
         "conflicts": []
       },
       "lineage": "7a309e8d-a86d-4332-8ad0-90d4f5835591",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1633,7 +1633,7 @@
         "conflicts": []
       },
       "lineage": "b020360f-dc9b-495a-8b01-1a6d73da8713",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1669,7 +1669,7 @@
         "conflicts": []
       },
       "lineage": "a4582f9c-207e-493b-8832-f0125ac7d30b",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1701,7 +1701,7 @@
         "conflicts": []
       },
       "lineage": "c9e62390-157e-4d57-8887-899b813c17a9",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1733,7 +1733,7 @@
         "conflicts": []
       },
       "lineage": "9edb6229-84ba-458e-8989-0712c9d56b22",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1765,7 +1765,7 @@
         "conflicts": []
       },
       "lineage": "365b9c30-d95c-48c1-8db9-3feacc0336bf",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1802,7 +1802,7 @@
         "conflicts": []
       },
       "lineage": "ea6d126c-a20d-423c-8776-a7288c29aa56",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1838,7 +1838,7 @@
         "conflicts": []
       },
       "lineage": "fb77eb5c-368f-4a07-8a3a-9c5cf767ff6c",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1871,7 +1871,7 @@
         "conflicts": []
       },
       "lineage": "0e2c6297-1663-4905-86f6-cdb2c000d23e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1904,7 +1904,7 @@
         "conflicts": []
       },
       "lineage": "79d3f0bb-f716-4cf0-8fa0-e172cebd8bcb",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1936,7 +1936,7 @@
         "conflicts": []
       },
       "lineage": "bd534856-6376-4eb2-8294-64c5f6e85a1d",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -1972,7 +1972,7 @@
         "conflicts": []
       },
       "lineage": "dc80948a-b204-4ddf-85d1-353bfe3538bb",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2011,7 +2011,7 @@
         "conflicts": []
       },
       "lineage": "675fbc11-acde-4b2b-8390-32b295626a81",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2050,7 +2050,7 @@
         "conflicts": []
       },
       "lineage": "076fa9e4-7ff9-4b67-802f-919fca2b5278",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2086,7 +2086,7 @@
         "conflicts": []
       },
       "lineage": "a4e6317e-264e-4f0d-80b4-ceb40c42c2d8",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2118,7 +2118,7 @@
         "conflicts": []
       },
       "lineage": "fc847ab9-8bcc-4475-8704-1c29eefa2eb6",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.982Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2155,7 +2155,7 @@
         "conflicts": []
       },
       "lineage": "b3c06910-adb6-40cc-8cbc-a169232b42c8",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2191,7 +2191,7 @@
         "conflicts": []
       },
       "lineage": "42698c6e-062d-4684-8ad7-b498c5820de4",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2231,7 +2231,7 @@
         "conflicts": []
       },
       "lineage": "5bab2431-0986-4e9a-8c4a-8c5a980d877b",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2268,7 +2268,7 @@
         "conflicts": []
       },
       "lineage": "7c78230a-caa6-45b3-8a3e-4d78d315a8f1",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2305,7 +2305,7 @@
         "conflicts": []
       },
       "lineage": "3b2ab1f8-5b16-4470-8a9d-4fbf75388ced",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2337,7 +2337,7 @@
         "conflicts": []
       },
       "lineage": "1af99a9a-3590-4b36-8fdd-1aec70e25f81",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2369,7 +2369,7 @@
         "conflicts": []
       },
       "lineage": "13f3c3bd-0895-4168-847b-a15a021ad407",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2401,7 +2401,7 @@
         "conflicts": []
       },
       "lineage": "2ea780c2-bbb8-4448-87dd-997a31439f44",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2433,7 +2433,7 @@
         "conflicts": []
       },
       "lineage": "0d22f29c-ce33-4949-89d9-6bb0aac16536",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2465,7 +2465,7 @@
         "conflicts": []
       },
       "lineage": "b1de71e6-af14-4bbb-82ac-d5d0e166eb61",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2497,7 +2497,7 @@
         "conflicts": []
       },
       "lineage": "3be44fb6-eb6a-4bdb-891a-96a77ab21e11",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2529,7 +2529,7 @@
         "conflicts": []
       },
       "lineage": "c3276c6d-18c9-41f6-865a-96dc22b12345",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2565,7 +2565,7 @@
         "conflicts": []
       },
       "lineage": "1d6396d3-d773-4e09-8ac5-1980148c9fed",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2597,7 +2597,7 @@
         "conflicts": []
       },
       "lineage": "f5caaaf1-9c31-43e8-8a3d-c2c49ef21f85",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2629,7 +2629,7 @@
         "conflicts": []
       },
       "lineage": "d3930602-54ae-4281-81b2-60ae5ef0fc6a",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2661,7 +2661,7 @@
         "conflicts": []
       },
       "lineage": "fadd2494-16da-4033-80de-0fe28849aacf",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2694,7 +2694,7 @@
         "conflicts": []
       },
       "lineage": "fe2cfef9-e63c-41e3-89b0-8e63879f64ec",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2727,7 +2727,7 @@
         "conflicts": []
       },
       "lineage": "febe45e9-91a2-435c-8b02-7b52ee5aab5e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2760,7 +2760,7 @@
         "conflicts": []
       },
       "lineage": "d1f2b0b1-603d-44d7-86e4-e1760ca8742e",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2796,7 +2796,7 @@
         "conflicts": []
       },
       "lineage": "7b8f6302-e4d4-41e1-8d83-d1c4ee63fa7c",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2828,7 +2828,7 @@
         "conflicts": []
       },
       "lineage": "e82c083f-03ac-4b1c-81d5-1523c1996026",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2860,7 +2860,7 @@
         "conflicts": []
       },
       "lineage": "a9c015fd-f59d-4843-8ed2-a6afa0efd855",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2897,7 +2897,7 @@
         "conflicts": []
       },
       "lineage": "54e6e7af-5564-426f-83cb-058b72bf29da",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2929,7 +2929,7 @@
         "conflicts": []
       },
       "lineage": "1842dbfd-6f9b-4cde-8482-203060c50783",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -2965,7 +2965,7 @@
         "conflicts": []
       },
       "lineage": "c5e00d61-231e-405e-8c40-40cb49be9392",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -3002,7 +3002,7 @@
         "conflicts": []
       },
       "lineage": "7264c961-b321-46c4-8048-1309a2b77d27",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     },
@@ -3044,7 +3044,7 @@
         "conflicts": []
       },
       "lineage": "983a0429-8cc0-453f-853f-7ca346b51b32",
-      "updatedAt": "2026-11-02T22:04:37.528Z",
+      "updatedAt": "2026-11-04T03:34:34.983Z",
       "recommended": false,
       "group": "冒险 · 怪物与 NPC"
     }
